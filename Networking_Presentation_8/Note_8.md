@@ -23,6 +23,7 @@ The paper focuses on the challenges of implementing Federated Edge Learning (FEE
 
 3. **Data-Aware Scheduling (DAS) Algorithm**: A scheduling algorithm that effectively manages device selection and bandwidth allocation based on the proposed diversity indicator.
 
+
 4. **Performance Evaluation**: Extensive simulations show that the DAS algorithm can significantly enhance learning accuracy and reduce resource consumption compared to traditional approaches.
 
   
