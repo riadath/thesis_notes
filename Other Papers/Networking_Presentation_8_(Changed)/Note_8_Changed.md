@@ -1,0 +1,4 @@
+# Summary and Abstract
+
+The main goal of the paper is to propose a data-quality-based scheduling (DQS) algorithm for FEEL. This algorithm prioritizes devices that have reliable, rich, and diverse datasets for participation in the learning process. It involves a meticulous selection of devices and an analogous allocation of bandwidth. The authors define the components of the learning algorithm, evaluate data quality, formulate the problem of device selection and bandwidth allocation, and finally, present and evaluate the proposed DQS algorithm under various data poisoning scenarios. This approach aims to optimize the training process by ensuring that devices with high-quality data are more likely to participate, thereby enhancing the efficiency and reliability of the federated learning model.
+

@@ -1,0 +1,20 @@
+{
+  "showLineNumber": true,
+  "vimMode": false,
+  "readableLineLength": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "legacyEditor": false,
+  "showFrontmatter": false,
+  "showIndentGuide": false,
+  "attachmentFolderPath": "Assets"
+}

@@ -1,0 +1,19 @@
+{
+  "showLineNumber": true,
+  "vimMode": false,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "legacyEditor": false,
+  "showFrontmatter": false,
+  "showIndentGuide": false
+}
