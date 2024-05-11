@@ -1,7 +1,7 @@
 {
   "showLineNumber": true,
   "vimMode": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": false,
