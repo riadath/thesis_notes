@@ -142,18 +142,14 @@ Consequently, the diversity (i.e., variations of the sequence data) should be ev
   
 
 - **Learning Model**:
+The MEC server initializes the global model’s (g) parameters and receives diversity indicators (with additional data) from the edge devices to select the participant subset Sr, for the training round.
 
-- The model’s parameters are initialized by the MEC server, and the global model is updated by aggregating local updates from the devices.
+Devices are selected based on their data diversity, and necessary bandwidth is allocated, ensuring a minimum number of participants 𝐾 per round.
+Selected devices perform local model training using their datasets through Stochastic Gradient Descent (SGD), then send updated model parameters back to the MEC server.
 
-- The objective is to minimize the prediction loss across all devices, represented by the equation:
+The MEC server uses the Federated Averaging (FedAvg) technique to aggregate received updates, redistributes the updated model for further training, and repeats this cycle until achieving the desired accuracy or completing  rmax rounds.
 
-$$
 
-\min_{w \in \mathbb{R}^d} F(w) = \frac{1}{N} \sum_{k=1}^K F_k(w)
-
-$$
-
-where $w$ is the model parameter vector, $F_k(w)$ is the loss function computed by device $k$, and $N$ is the total number of data points.
 ![[Pasted image 20240510115628.png]]
   
 
