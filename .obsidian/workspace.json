@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking_Presentation_8/Note_8.md",
+                "file": "Networking_Presentation_8/Paper_8.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking_Presentation_8/Note_8.md",
+                "file": "Networking_Presentation_8/Paper_8.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking_Presentation_8/Note_8.md"
+                "file": "Networking_Presentation_8/Paper_8.pdf"
               }
             }
           },
@@ -179,10 +180,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5fc5cca217c9a9c7",
+  "active": "34be2b0eacde0af8",
   "lastOpenFiles": [
-    "Networking_Presentation_8/Paper_8.pdf",
     "Networking_Presentation_8/Note_8.md",
+    "Assets/Pasted image 20240510115628 1.png",
+    "Assets/Pasted image 20240510115628.png",
+    "Networking_Presentation_8/Paper_8.pdf",
     "Networking_Presentation_7/Paper_7.pdf",
     "Networking_Presentation_7/PRESENTATION_7.pdf",
     "Networking_Presentation_7/Presentation Content.md",
@@ -194,7 +197,6 @@
     "Networking_Presentation_5/PRESENTATION_5.pdf",
     "Networking_Presentation_4/PRESENTATION_4.pdf",
     "Writing.md",
-    "Assets/Pasted image 20240510115628.png",
     "Assets/Pasted image 20240510111123.png",
     "Assets/Pasted image 20240510111106.png",
     "Assets/Pasted image 20240510111044.png",
@@ -225,7 +227,6 @@
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_7f0e791a.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_5a19077d.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_2e73f42a.jpg",
-    "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_22269976.jpg",
     "Untitled.canvas"
   ]
 }

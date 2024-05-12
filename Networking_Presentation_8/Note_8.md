@@ -145,9 +145,10 @@ Consequently, the diversity (i.e., variations of the sequence data) should be ev
 The MEC server initializes the global model’s (g) parameters and receives diversity indicators (with additional data) from the edge devices to select the participant subset Sr, for the training round.
 
 Devices are selected based on their data diversity, and necessary bandwidth is allocated, ensuring a minimum number of participants 𝐾 per round.
+
 Selected devices perform local model training using their datasets through Stochastic Gradient Descent (SGD), then send updated model parameters back to the MEC server.
 
-The MEC server uses the Federated Averaging (FedAvg) technique to aggregate received updates, redistributes the updated model for further training, and repeats this cycle until achieving the desired accuracy or completing  rmax rounds.
+The MEC server uses the Federated Averaging (FedAvg) technique to aggregate received updates, redistributes the updated model for further training, and repeats this cycle until achieving the desired accuracy or completing max rounds.
 
 
 ![[Pasted image 20240510115628.png]]
