@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking_Presentation_8/Note_8.md",
+                "file": "Networking_Presentation_8/Paper_8.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking_Presentation_8/Note_8.md",
+                "file": "Networking_Presentation_8/Paper_8.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking_Presentation_8/Note_8.md"
+                "file": "Networking_Presentation_8/Paper_8.pdf"
               }
             }
           },
@@ -189,10 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5fc5cca217c9a9c7",
+  "active": "34be2b0eacde0af8",
   "lastOpenFiles": [
-    "Networking_Presentation_8/Paper_8.pdf",
     "Networking_Presentation_8/Note_8.md",
+    "Networking_Presentation_8/Paper_8.pdf",
     "Networking_Presentation_7/Paper_7.pdf",
     "Assets/Pasted image 20240510115628 1.png",
     "Assets/Pasted image 20240510115628.png",
