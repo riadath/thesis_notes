@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5026054382324
+    "width": 318.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -189,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34be2b0eacde0af8",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
     "Networking_Presentation_1/PRESENTATION_1.pdf",
     "Networking_Presentation_1/Paper_1.pdf",
