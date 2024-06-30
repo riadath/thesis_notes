@@ -11,24 +11,11 @@
             "id": "c7f2a913424bbff6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Networking_Presentation_3/Paper_3.pdf"
-              }
-            }
-          },
-          {
-            "id": "a80c4e55054221d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 17.40.55.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5026054382324,
-    "collapsed": true
+    "width": 318.5026054382324
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 17.40.55.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 17.40.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 17.40.55.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,10 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a80c4e55054221d5",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
-    "Networking_Presentation_3/Paper_3.pdf",
     "Excalidraw/Drawing 2024-06-20 17.40.55.excalidraw.md",
+    "Networking_Presentation_3/Paper_3.pdf",
+    "Excalidraw/Drawing 2024-06-21 16.53.49.excalidraw.md",
     "Excalidraw",
     "Networking_Presentation_2/Paper_2.pdf",
     "Networking_Presentation_1/FedCPF Paper Main Note.md",
@@ -221,7 +204,6 @@
     "OWL_Archive/A 1.md",
     "Not Course Studies/Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Not Course Studies/Networking/Networking_Presentation_3/Main Note.md",
-    "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_7f0e791a.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_5a19077d.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_2e73f42a.jpg",
