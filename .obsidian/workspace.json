@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5fc5cca217c9a9c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking_Presentation_8/Note_8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c98bb47edadd0109",
             "type": "leaf",
             "state": {
@@ -63,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5026054382324,
-    "collapsed": true
+    "width": 318.5026054382324
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -131,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking_Presentation_8/Paper_8.pdf",
+                "file": "Writing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking_Presentation_8/Paper_8.pdf",
+                "file": "Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking_Presentation_8/Paper_8.pdf"
+                "file": "Writing.md"
               }
             }
           },
@@ -214,10 +200,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c98bb47edadd0109",
+  "active": "9eacd7f7ee499031",
   "lastOpenFiles": [
-    "Writing.md",
     "Networking_Presentation_8/Paper_8.pdf",
+    "Writing.md",
     "Networking_Presentation_8/Note_8.md",
     "Networking_Presentation_7/Paper_7.pdf",
     "Networking_Presentation_7/Paper 7 Note.md",
