@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "12877405b1d321f3",
+        "id": "2f1f5eac59b30123",
         "type": "tabs",
         "children": [
           {
-            "id": "853e3ffdd050db7c",
+            "id": "4a4b0fad9a8fae9c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Networking_Presentation_8/Paper_8.pdf"
+                "file": "Paper_8/Paper_8.pdf"
+              }
+            }
+          },
+          {
+            "id": "d0bd6d36cdf24968",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper_9?/paper_9.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5026054382324
+    "width": 200
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking_Presentation_8/Paper_8.pdf",
+                "file": "Paper_9?/paper_9.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking_Presentation_8/Paper_8.pdf",
+                "file": "Paper_9?/paper_9.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking_Presentation_8/Paper_8.pdf"
+                "file": "Paper_9?/paper_9.pdf"
               }
             }
           },
@@ -166,24 +177,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "853e3ffdd050db7c",
+  "active": "d0bd6d36cdf24968",
   "lastOpenFiles": [
+    "Paper_8/Paper_8.pdf",
+    "Paper_8/Note_8.md",
+    "Paper_9?/paper_9.pdf",
+    "Networking_Presentation_9?/paper_9.pdf",
+    "Paper_9?",
+    "Paper_8/presentation 8.pdf",
+    "Paper_8",
+    "Paper_7/Presentation Content.md",
+    "Paper_7/Paper_7.pdf",
+    "Paper_7/Paper 7 Note.md",
+    "Paper_7/PRESENTATION_7.pdf",
+    "Paper_7",
+    "Paper_6/cite[7].pdf",
+    "Paper_3/Main Note.md",
+    "Paper_2/Paper Main Note.md",
+    "Paper_2/Nonlinear Programming.md",
     "conflict-files-obsidian-git.md",
-    "Networking_Presentation_8/Paper_8.pdf",
     "Networking_Presentation_8/Note_8.md",
-    "Networking_Presentation_2/Paper_2.pdf",
     "Networking_Presentation_2/Paper Main Note.md",
     "Networking_Presentation_2/Nonlinear Programming.md",
-    "Networking_Presentation_1/FedCPF Paper Main Note.md",
+    "Paper_1/FedCPF Paper Main Note.md",
     "Networking_Presentation_7/Paper 7 Note.md",
-    "Networking_Presentation_7/PRESENTATION_7.pdf",
-    "Networking_Presentation_6/Paper_6.pdf",
-    "Networking_Presentation_6/PRESENTATION_6.pdf",
-    "Networking_Presentation_7/Paper_7.pdf",
-    "Networking_Presentation_4/Paper_4.pdf",
-    "Networking_Presentation_5/Paper_5.pdf",
-    "Networking_Presentation_3/Paper_3.pdf",
-    "Networking_Presentation_4/PRESENTATION_4.pdf",
     "Excalidraw/Drawing 2024-06-20 17.40.55.excalidraw.md",
     "Excalidraw/Drawing 2024-06-21 16.53.49.excalidraw.md",
     "Networking_Presentation_7/Presentation Content.md",
@@ -204,12 +221,6 @@
     "Clarification Regarding Review.md",
     "Rubric.md",
     "OWL/template2.md",
-    "Code samurai.md",
-    "OWL_Archive/C 1.md",
-    "OWL_Archive/D 1.md",
-    "OWL_Archive/B 1.md",
-    "OWL_Archive/A 1.md",
-    "Not Course Studies/Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_7f0e791a.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_5a19077d.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_2e73f42a.jpg",
