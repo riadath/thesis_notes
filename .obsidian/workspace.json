@@ -26,9 +26,19 @@
                 "file": "Paper_9?/paper_9.pdf"
               }
             }
+          },
+          {
+            "id": "6c3b265d9d08096a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper_9?/paper_9.pdf",
+                "file": "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper_9?/paper_9.pdf",
+                "file": "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper_9?/paper_9.pdf"
+                "file": "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md"
               }
             }
           },
@@ -177,11 +187,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0bd6d36cdf24968",
+  "active": "6c3b265d9d08096a",
   "lastOpenFiles": [
+    "Paper_9?/paper_9.pdf",
+    "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md",
     "Paper_8/Paper_8.pdf",
     "Paper_8/Note_8.md",
-    "Paper_9?/paper_9.pdf",
     "Networking_Presentation_9?/paper_9.pdf",
     "Paper_9?",
     "Paper_8/presentation 8.pdf",
@@ -220,7 +231,6 @@
     "AI Assingment.md",
     "Clarification Regarding Review.md",
     "Rubric.md",
-    "OWL/template2.md",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_7f0e791a.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_5a19077d.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_2e73f42a.jpg",
