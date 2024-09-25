@@ -21,9 +21,11 @@
             "id": "d0bd6d36cdf24968",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Paper_9?/paper_9.pdf"
+                "file": "Paper_8/Note_8.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper_9?/paper_9.pdf",
+                "file": "Paper_8/Note_8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper_9?/paper_9.pdf",
+                "file": "Paper_8/Note_8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper_9?/paper_9.pdf"
+                "file": "Paper_8/Note_8.md"
               }
             }
           },
@@ -179,8 +181,8 @@
   },
   "active": "d0bd6d36cdf24968",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md",
     "Paper_9?/paper_9.pdf",
+    "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md",
     "Paper_8/Paper_8.pdf",
     "Paper_8/Note_8.md",
     "Networking_Presentation_9?/paper_9.pdf",
