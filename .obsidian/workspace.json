@@ -26,19 +26,9 @@
                 "file": "Paper_9?/paper_9.pdf"
               }
             }
-          },
-          {
-            "id": "6c3b265d9d08096a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md",
+                "file": "Paper_9?/paper_9.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md",
+                "file": "Paper_9?/paper_9.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md"
+                "file": "Paper_9?/paper_9.pdf"
               }
             }
           },
@@ -187,10 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c3b265d9d08096a",
+  "active": "d0bd6d36cdf24968",
   "lastOpenFiles": [
-    "Paper_9?/paper_9.pdf",
     "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md",
+    "Paper_9?/paper_9.pdf",
     "Paper_8/Paper_8.pdf",
     "Paper_8/Note_8.md",
     "Networking_Presentation_9?/paper_9.pdf",
