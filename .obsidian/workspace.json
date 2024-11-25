@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper_8/Note_8.md",
+                "file": "Paper_1/FedCPF Paper Main Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper_8/Note_8.md",
+                "file": "Paper_1/FedCPF Paper Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper_8/Note_8.md",
+                "file": "Paper_1/FedCPF Paper Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper_8/Note_8.md"
+                "file": "Paper_1/FedCPF Paper Main Note.md"
               }
             }
           },
@@ -181,10 +181,12 @@
   },
   "active": "d0bd6d36cdf24968",
   "lastOpenFiles": [
+    "Paper_1/PRESENTATION_1.pdf",
+    "Paper_1/Paper_1.pdf",
+    "Paper_8/Note_8.md",
     "Paper_9?/paper_9.pdf",
     "Excalidraw/Drawing 2024-08-28 14.40.42.excalidraw.md",
     "Paper_8/Paper_8.pdf",
-    "Paper_8/Note_8.md",
     "Networking_Presentation_9?/paper_9.pdf",
     "Paper_9?",
     "Paper_8/presentation 8.pdf",
@@ -194,7 +196,6 @@
     "Paper_7/Paper 7 Note.md",
     "Paper_7/PRESENTATION_7.pdf",
     "Paper_7",
-    "Paper_6/cite[7].pdf",
     "Paper_3/Main Note.md",
     "Paper_2/Paper Main Note.md",
     "Paper_2/Nonlinear Programming.md",
