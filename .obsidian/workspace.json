@@ -14,7 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "Paper_8/Paper_8.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "Paper_8"
             }
           },
           {
@@ -26,7 +28,9 @@
                 "file": "Paper_1/FedCPF Paper Main Note.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "FedCPF Paper Main Note"
             }
           }
         ],
@@ -50,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -73,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -104,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for FedCPF Paper Main Note"
             }
           },
           {
@@ -116,7 +128,9 @@
                 "file": "Paper_1/FedCPF Paper Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FedCPF Paper Main Note"
             }
           },
           {
@@ -127,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,7 +153,9 @@
               "type": "outline",
               "state": {
                 "file": "Paper_1/FedCPF Paper Main Note.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of FedCPF Paper Main Note"
             }
           },
           {
@@ -145,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -157,7 +177,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
